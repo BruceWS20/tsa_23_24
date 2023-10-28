@@ -1,3 +1,3 @@
-#teste.sh
+#fi teste.sh
 
 echo "Teste da execução do script"
